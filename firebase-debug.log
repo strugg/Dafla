@@ -1,0 +1,28 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      node C:\Users\Dell\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.2.0
+[debug] Platform:     win32
+[debug] Node Version: v0.12.2
+[debug] Time:         Fri Dec 30 2016 17:36:59 GMT-0600 (Hora estándar central (México))
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\xampp\htdocs\Dafla
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      node C:\Users\Dell\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v0.12.2
+[debug] Time:         Sat Dec 31 2016 16:51:50 GMT-0600 (Hora estándar central (México))
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\xampp\htdocs\Dafla
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
